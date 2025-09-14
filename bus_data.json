@@ -1,0 +1,5 @@
+{
+    "4": {"name": "Shahbagh Express", "route": "Mirpur → Farmgate → Shahbagh"},
+    "6": {"name": "Green Line", "route": "Uttara → Farmgate → Motijheel"},
+    "007": {"name": "Blue City", "route": "Gabtoli → Farmgate → Dhanmondi"}
+}
